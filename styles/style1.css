@@ -1,0 +1,40 @@
+.welcome {
+    padding : 2rem;
+}
+
+.welcome hr {
+    border-top: 2px solid #b4b4b4;
+    width: 50%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+.padding {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+html, body {
+    height: 100%;
+}
+
+/* Color and Sizing of Icons */
+.fa-code {
+    color: #e54d26;
+}
+.fa-file-powerpoint {
+    color: #0bd3e5;
+}
+.fa-code, .fa-file-powerpoint {
+    font-size: 4em;
+    margin-bottom: .3em;
+    margin-top: .03em;
+}
+
+.jumbotron {
+    background-color: #96858F;
+}
