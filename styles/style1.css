@@ -21,6 +21,7 @@ html, body {
 /* Navbar Formatting */
 .navbar {
     padding: .8rem;
+    background-color: white;
 }
 
 .navbar-nav li {
