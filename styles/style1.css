@@ -9,10 +9,6 @@
     margin-bottom: 1rem;
 }
 
-.navbar-default {
-    background-color: white;
-}
-
 .padding {
     padding-bottom: 2rem;
     padding-top: 2rem;
@@ -21,6 +17,29 @@
 html, body {
     height: 100%;
 }
+
+/* Navbar Formatting */
+.navbar {
+    padding: .8rem;
+}
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+
+.nav-link {
+    font-size: 1.1em !important;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+/* (For future reference)
+    to center something vertically...
+    top: 50%;
+    transform: translateY(-50%);
+*/
 
 /* Color and Sizing of Icons */
 .fa-code {
